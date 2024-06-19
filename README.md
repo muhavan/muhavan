@@ -12,7 +12,6 @@
 - 💼 &nbsp; Developer by profession.
 - 🌱 &nbsp; Web Enthusiast. 
 - ✍️ &nbsp; Watching film and trying out latest design trends.
-- ☕ &nbsp; `coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'`
 
 <h3>🛠 Tech Stack</h3>
 
