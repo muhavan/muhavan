@@ -1,15 +1,17 @@
 <h2> Hey there! I'm Muhamad Evan Fauzan. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
 
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+Informatics students who are enthusiastic and committed to developing themselves in the field of networking and information technology support. I have a particular interest in the role of Network Engineer and IT Support, and have skills in the Python and HTML programming languages. With my educational background, clear interests, and solid technical skills, I am ready to make positive contributions in a dynamic work environment in the Technology field.
+
 - 🔭 &nbsp; Improving my Network Engineering skills 
 - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 - 🎓 &nbsp; Student Information Technology.
-- 💼 &nbsp; Developer by profession.
+- 💼 &nbsp; Network Engineering by profession.
 - 🌱 &nbsp; Web Enthusiast. 
 - ✍️ &nbsp; Watching film and trying out latest design trends.
 
@@ -31,21 +33,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhavan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/muhavan)
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/muhamad-evan-fauzan/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:muhammad400809@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://twitter.com/muhavann" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/muhavann/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+## 📫 Connect with me!
+<p align="left">
+<a href="https://twitter.com/muhavann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhavan" height="30" width="40" /></a>
+<a href="https://instagram.com/faidfxdjri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhavan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vaidz.capoeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaidz.capoeng" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhamad-evan-fauzan/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="muhavann" height="30" width="30" /></a>
 </p>
 
-<!-- Aaahhhhhh !! My contribution grapgh is getting eaten... 😶 -->
-<!-- <p> 
- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
-</p> -->
+Happy coding,
 
-<!-- addded on 3rd May 2021 -->
-
-#### **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{devSouvik}/count.svg)
+Muhamad Evan Fauzan
