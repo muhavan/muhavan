@@ -3,6 +3,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
 
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
+
+
 Informatics students who are enthusiastic and committed to developing themselves in the field of networking and information technology support. I have a particular interest in the role of Network Engineer and IT Support, and have skills in the Python and HTML programming languages. With my educational background, clear interests, and solid technical skills, I am ready to make positive contributions in a dynamic work environment in the Technology field.
 
 <h3> 👨🏻‍💻 About Me </h3>
