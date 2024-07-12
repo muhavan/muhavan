@@ -20,7 +20,7 @@ Informatics students who are enthusiastic and committed to developing themselves
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C++ | HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL | postgresql | Xampp | docker
+- 🛢 &nbsp; MySQL | Postgresql | Xampp | Docker
 - 🔧 &nbsp; Visual Studio code | NetBeans | Git | Mikrotik | Cisco Packet Tracer
 - 🖥 &nbsp; Canva | Figma
 
