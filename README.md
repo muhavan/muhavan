@@ -10,12 +10,12 @@ Informatics students who are enthusiastic and committed to developing themselves
 <h3> 👨🏻‍💻 About Me </h3>
 
 
-- 🔭 &nbsp; Improving my Network Engineering skills 
-- 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 - 🎓 &nbsp; Student Information Technology.
+- 🔭 &nbsp; Improving my Network Engineering skills 
 - 💼 &nbsp; Network Engineering by profession.
 - 🌱 &nbsp; Web Enthusiast. 
 - ✍️ &nbsp; Watching film and trying out latest design trends.
+- 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 
 <h3>🛠 Tech Stack</h3>
 
