@@ -33,14 +33,14 @@ Informatics students who are enthusiastic and committed to developing themselves
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhavan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/muhavan)
+[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=muhavan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/muhavan)
 
 ## 📫 Connect with me!
 <p align="left">
 <a href="https://twitter.com/muhavann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhavan" height="30" width="40" /></a>
 <a href="https://instagram.com/muhavann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhavan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muhavann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaidz.capoeng" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhamad-evan-fauzan/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="muhavann" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/muhamad-evan-fauzan/" target="blank"><img align="center" src="(https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)" alt="muhavann" height="30" width="30" /></a>
 </p>
 
 Happy coding,
