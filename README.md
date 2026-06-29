@@ -26,22 +26,18 @@ Informatics students who are enthusiastic and committed to developing themselves
 
 <br>
 
-<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhavan&theme=tokyonight&hide_border=true">
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=muhavan&layout=compact&hide_border=true&bg_color=0a0f1a&title_color=6c8bc4&text_color=e6ebf5&langs_count=8&cache_seconds=86400)](https://github.com/muhavan)
 
 </br>
 
-
-[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=muhavan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/muhavan)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhavan&theme=tokyonight&hide_border=true">
 
 ## 📫 Connect with me!
-<p align="left">
-<a href="https://twitter.com/muhavann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhavan" height="30" width="40" /></a>
-<a href="https://instagram.com/muhavann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhavan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/muhavann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaidz.capoeng" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhamad-evan-fauzan/" target="blank"><img align="center" src="(https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)" alt="muhavann" height="30" width="30" /></a>
-</p>
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/muhavann)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhavann)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/muhavann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-evan-fauzan/)
 
 Happy coding,
 
