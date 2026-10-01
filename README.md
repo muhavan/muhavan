@@ -10,7 +10,7 @@ Informatics students who are enthusiastic and committed to developing themselves
 <h3> 👨🏻‍💻 About Me </h3>
 
 
-- 🎓 &nbsp; Student Information Technology.
+- 🎓 &nbsp; Bachelor of Information Technology.
 - 🔭 &nbsp; Improving my Network Engineering skills 
 - 💼 &nbsp; Network Engineering by profession.
 - 🌱 &nbsp; Web Enthusiast. 
